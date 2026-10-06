@@ -1,0 +1,61 @@
+VERSION = 1,
+
+option AlphaGal.MildReactionChance
+{
+    type = integer,
+    min = 0,
+    max = 100,
+    default = 65,
+    page = AlphaGal,
+    translation = AlphaGal_MildReactionChance,
+}
+
+option AlphaGal.ModerateReactionChance
+{
+    type = integer,
+    min = 0,
+    max = 100,
+    default = 85,
+    page = AlphaGal,
+    translation = AlphaGal_ModerateReactionChance,
+}
+
+option AlphaGal.SevereReactionChance
+{
+    type = integer,
+    min = 0,
+    max = 100,
+    default = 100,
+    page = AlphaGal,
+    translation = AlphaGal_SevereReactionChance,
+}
+
+option AlphaGal.ReactionDelayHours
+{
+    type = double,
+    min = 0.0,
+    max = 12.0,
+    default = 2.0,
+    page = AlphaGal,
+    translation = AlphaGal_ReactionDelayHours,
+}
+
+option AlphaGal.SevereReactionHours
+{
+    type = double,
+    min = 0.5,
+    max = 12.0,
+    default = 3.0,
+    page = AlphaGal,
+    translation = AlphaGal_SevereReactionHours,
+}
+
+option AlphaGal.ExposureDecayPerHour
+{
+    type = double,
+    min = 0.0,
+    max = 1.0,
+    default = 0.08,
+    page = AlphaGal,
+    translation = AlphaGal_ExposureDecayPerHour,
+}
