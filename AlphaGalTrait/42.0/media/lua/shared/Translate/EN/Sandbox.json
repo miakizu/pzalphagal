@@ -1,0 +1,15 @@
+{
+    "Sandbox_AlphaGal": "Alpha Gal Trait",
+    "Sandbox_AlphaGal_MildReactionChance": "Mild reaction chance",
+    "Sandbox_AlphaGal_MildReactionChance_tooltip": "Chance that a mild exposure actually causes symptoms.",
+    "Sandbox_AlphaGal_ModerateReactionChance": "Moderate reaction chance",
+    "Sandbox_AlphaGal_ModerateReactionChance_tooltip": "Chance that a moderate exposure actually causes symptoms.",
+    "Sandbox_AlphaGal_SevereReactionChance": "Severe reaction chance",
+    "Sandbox_AlphaGal_SevereReactionChance_tooltip": "Chance that a severe exposure becomes life-threatening. The default is 100%, so a full red-meat serving is lethal.",
+    "Sandbox_AlphaGal_ReactionDelayHours": "Reaction delay",
+    "Sandbox_AlphaGal_ReactionDelayHours_tooltip": "In-game hours between eating a trigger food and symptoms beginning. Default: 2 hours.",
+    "Sandbox_AlphaGal_SevereReactionHours": "Severe reaction length",
+    "Sandbox_AlphaGal_SevereReactionHours_tooltip": "In-game hours from the start of a severe reaction until breathing failure. Default: 3 hours.",
+    "Sandbox_AlphaGal_ExposureDecayPerHour": "Exposure decay per hour",
+    "Sandbox_AlphaGal_ExposureDecayPerHour_tooltip": "How quickly stored alpha-gal exposure fades between meals."
+}
