@@ -107,6 +107,4 @@ Download the latest release ZIP and extract the `AlphaGalTrait` folder into your
 
 ## Current version
 
-**0.1.2**
-
-See [CHANGELOG.md](CHANGELOG.md) for release changes.
+**1.0**
