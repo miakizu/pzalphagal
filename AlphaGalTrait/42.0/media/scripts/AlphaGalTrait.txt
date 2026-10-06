@@ -1,0 +1,12 @@
+module alphagal
+{
+    character_trait_definition alphagal:alphagal
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = alphagal:alphagal,
+        Cost = -10,
+        UIName = UI_trait_alphagal,
+        UIDescription = UI_trait_alphagaldesc,
+    }
+}
